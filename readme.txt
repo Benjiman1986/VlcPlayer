@@ -1,0 +1,1 @@
+需要在https://github.com/Benjiman1986/Vlc.DotNet/tree/develop/lib/x86中下载libvlc.dll, libvlccore.dll以及plugins放到目录中才可以运行
